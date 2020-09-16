@@ -1,1 +1,1 @@
-web: gunicorn Flask_B.wsgi 
+web: gunicorn run.py
