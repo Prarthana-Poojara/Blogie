@@ -1,1 +1,1 @@
-web: gunicorn blogiee:run
+web: gunicorn Flask_B.wsgi 
