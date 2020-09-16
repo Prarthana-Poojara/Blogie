@@ -1,1 +1,1 @@
-web: gunicorn blogiee:app
+web: gunicorn blogiee:run
